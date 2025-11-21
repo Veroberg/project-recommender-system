@@ -1,0 +1,6 @@
+title,description,technologies,difficulty
+Chatbot RAG com LangChain,Chatbot inteligente usando retrieval-augmented generation e FAISS,Python,LangChain,OpenAI,FAISS,Streamlit,Avançado
+Sistema de Recomendação,Sistema de recomendação baseado em conteúdo com machine learning,Python,Scikit-learn,Pandas,Streamlit,ML,Intermediário
+Análise de Sentimentos com NLP,Classificação de sentimentos usando transformers e processamento de linguagem,Python,Transformers,HuggingFace,NLP,Pytorch,Avançado
+Dashboard de Analytics,Dashboard interativo para análise de dados empresariais,Python,Plotly,Dash,Pandas,SQL,Intermediário
+API REST com FastAPI,API moderna com autenticação JWT e documentação automática,Python,FastAPI,SQLAlchemy,JWT,Swagger,Intermediário
